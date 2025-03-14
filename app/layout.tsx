@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "HCL CDP",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({

@@ -1,0 +1,3235 @@
+[
+  {
+      "id": 93867,
+      "name": "Offline_data_segment",
+      "description": "Offline_data_segment testing segment",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%offline_data%\"}}]}",
+      "createdOn": "2024-06-27T08:41:19.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 1,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "HIGH",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "shweta_insurance_6527",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": "shweta.b@hcl-software.com",
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93876,
+      "name": "Insurance Acquire",
+      "description": "- Insurance page view - maps to \"Insurance Acquire\"  segment",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%term_life_insurance_acquire%\"}}]}",
+      "createdOn": "2024-07-04T08:31:56.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 2,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "akanksha_insurance_6527",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-07-04T12:30:07.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93878,
+      "name": "Insurance Interest",
+      "description": "-Click on \"Know More\" link - maps to \"Insurance Interest\" segment\n",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%term_life_insurance_consider%\"}}]}",
+      "createdOn": "2024-07-04T08:33:40.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 3,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "akanksha_insurance_6527",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-07-04T12:30:05.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93879,
+      "name": "Insurance Conversion",
+      "description": "Insurance Conversion",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%term_life_insurance_conversion%\"}}]}",
+      "createdOn": "2024-07-04T08:35:53.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 4,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "akanksha_insurance_6527",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-07-04T12:30:03.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93880,
+      "name": "Insurance Consider",
+      "description": "\"Insurance Consider",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%term_life_insurance_consider%\"}}]}",
+      "createdOn": "2024-07-04T08:38:04.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 5,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "akanksha_insurance_6527",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-07-04T14:05:29.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93881,
+      "name": "Insurance Intent",
+      "description": "Insurance Intent",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%intent%\"}}]}",
+      "createdOn": "2024-07-04T08:39:17.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 6,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "akanksha_insurance_6527",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 4,
+      "updatedOn": "2024-07-04T14:11:34.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93883,
+      "name": "Product Intent",
+      "description": "Product Intent",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%intent%\"}}]}",
+      "createdOn": "2024-07-04T12:43:00.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 7,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 2,
+      "updatedOn": "2024-07-11T12:24:40.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93884,
+      "name": "Product Consider",
+      "description": "Product Consider",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%consider%\"}},{\"is_evnt_updated\":{\"$lowerlike\":\"%1%\"}}]}",
+      "createdOn": "2024-07-04T12:43:47.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 8,
+      "isActive": 1,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 9,
+      "updatedOn": "2024-07-30T15:51:35.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 1,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93886,
+      "name": "Product Intrest",
+      "description": "Product Intrest",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%intrest%\"}}]}",
+      "createdOn": "2024-07-04T13:12:12.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 9,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-07-04T14:11:45.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93887,
+      "name": "Product Submit",
+      "description": "Product Submit",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%submit%\"}}]}",
+      "createdOn": "2024-07-04T13:13:01.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 10,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-07-04T14:11:51.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93888,
+      "name": "Product Interest",
+      "description": "Product Interest",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%interest%\"}}]}",
+      "createdOn": "2024-07-04T13:14:25.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 11,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 2,
+      "updatedOn": "2024-07-11T06:00:54.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93889,
+      "name": "Product acquire",
+      "description": "Product acquire",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%acquire%\"}}]}",
+      "createdOn": "2024-07-04T13:15:08.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 12,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-07-04T14:06:17.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93890,
+      "name": "Product Acquire",
+      "description": "Product Acquire",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%acquire%\"}},{\"is_evnt_updated\":{\"$lowerlike\":\"%1%\"}}]}",
+      "createdOn": "2024-07-04T13:16:03.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 13,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 5,
+      "updatedOn": "2024-07-18T06:38:58.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93891,
+      "name": "Product Cancel",
+      "description": "Product Cancel",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%cancel%\"}}]}",
+      "createdOn": "2024-07-04T13:17:23.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 14,
+      "isActive": 1,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 4,
+      "updatedOn": "2025-01-28T12:35:26.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 1,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93892,
+      "name": "Product Conversion",
+      "description": "Product Conversion",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%conversion%\"}}]}",
+      "createdOn": "2024-07-04T14:13:07.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 15,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 1,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 2,
+      "updatedOn": "2024-07-10T09:56:59.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93898,
+      "name": "Health_Insurance_Cancel",
+      "description": "Users who aborted in the middle of applying for health insurance",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%health_insurance_cancel%\"}}]}",
+      "createdOn": "2024-07-08T08:25:49.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 16,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "jaya_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 2,
+      "updatedOn": "2024-07-08T08:26:59.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93911,
+      "name": "webpushnotification",
+      "description": "webpushnotification",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"CITY\":{\"$lowerlike\":\"%Hyderabad,India%\"}}]}",
+      "createdOn": "2024-07-09T04:32:28.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 17,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "sekhartelco",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93917,
+      "name": "Product Conversion Seg",
+      "description": "Product Conversion",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%consider%\"}}]}",
+      "createdOn": "2024-07-10T09:58:36.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 18,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "jaya_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 2,
+      "updatedOn": "2024-07-11T06:52:46.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93919,
+      "name": "Product Conversions",
+      "description": "Product Conversion",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%Conversion%\"}}]}",
+      "createdOn": "2024-07-10T16:43:03.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 19,
+      "isActive": 1,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 4,
+      "updatedOn": "2024-09-12T16:08:52.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 1,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93939,
+      "name": "KP_Seg1",
+      "description": "Creating a segment for demo learning purposes",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"CITY\":{\"$lowerlike\":\"%Pune %\"}}]}",
+      "createdOn": "2024-07-15T20:09:14.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 20,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "Kelly_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 93993,
+      "name": "Car Insurance Cancel",
+      "description": "Car Insurance Cancel",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%car_insurance_cancel%\"}}]}",
+      "createdOn": "2024-07-24T12:20:01.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 21,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "jaya_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94037,
+      "name": "Paul Test Insurance list",
+      "description": "Test Insurance segment list",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%7b81814d-adcc-4f72-bfd0-66d9132de7e9%\"}}]}",
+      "createdOn": "2024-08-12T21:15:46.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 22,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "Paul_insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": "{\"name\":\"Term Life Insurance Funnel\",\"duration\":{\"from\":\"2024-07-01\",\"to\":\"2024-07-18\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"term_life_insurance_acquire\"},{\"name\":\"term_life_insurance_consider\"},{\"name\":\"term_life_insurance_intent\"},{\"name\":\"term_life_insurance_conversion\"}],\"condition\":\"not_completed\",\"event\":\"term_life_insurance_conversion\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94038,
+      "name": "FunnelExportSegment",
+      "description": "Funnel Export Segment",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%196bfd78-9366-457f-9675-865a192f78f9%\"}}]}",
+      "createdOn": "2024-08-13T15:17:10.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 23,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "jaya_insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": "{\"name\":\"Term Life Insurance Funnel\",\"duration\":{\"from\":\"2024-07-01\",\"to\":\"2024-07-18\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"term_life_insurance_acquire\"},{\"name\":\"term_life_insurance_consider\"},{\"name\":\"term_life_insurance_intent\"},{\"name\":\"term_life_insurance_conversion\"}],\"condition\":\"completed\",\"event\":\"term_life_insurance_intent\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94041,
+      "name": "TestExportSegment",
+      "description": "Export Segment",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%e94b1a0c-9e37-472d-ad4f-5d8642cb8957%\"}}]}",
+      "createdOn": "2024-08-14T15:42:30.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 24,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "HIGHEST",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "jaya_insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": "{\"name\":\"Car insurance Funnel\",\"duration\":{\"from\":\"2024-05-09\",\"to\":\"2024-07-07\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"car_insurance_acquire\"},{\"name\":\"know_more_car_insurance_interest\"},{\"name\":\"car_insurance_consider\"},{\"name\":\"car_insurance_intent\"},{\"name\":\"car_insurance_conversion\"}],\"condition\":\"not_completed\",\"event\":\"car_insurance_conversion\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94042,
+      "name": "Life Cnvrt + Health Acq",
+      "description": "Term Insurance Convert + Health Insurance Acquire",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%42f7bb09-1d61-40c9-a8c7-3ef866bb967f%\"}}]}",
+      "createdOn": "2024-08-14T16:32:27.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 25,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "HIGHEST",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "Paul_insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": "{\"name\":\"Term Ins Conversion + Health Ins Acquire\",\"duration\":{\"from\":\"2024-07-01\",\"to\":\"2024-07-31\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"term_life_insurance_conversion\"},{\"name\":\"health_insurance_acquire\"}],\"condition\":\"completed\",\"event\":\"health_insurance_acquire\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94051,
+      "name": "Life Convrt + Auto Acq",
+      "description": "Auto policy customers who are also interested in Life Insurance",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%4cd62b5a-0643-43fd-937c-78c9f785edb5%\"}}]}",
+      "createdOn": "2024-08-19T17:54:13.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 26,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "HIGHEST",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "Paul_insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": "{\"name\":\"Auto Ins Convert with  Life Ins Aquire\",\"duration\":{\"from\":\"2024-07-01\",\"to\":\"2024-07-31\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"car_insurance_conversion\"},{\"name\":\"term_life_insurance_acquire\"}],\"condition\":\"not_completed\",\"event\":\"term_life_insurance_acquire\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94052,
+      "name": "Auto Custs +  Life Ins",
+      "description": "Auto Ins Customers interested in Life Insurance ",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%4d7d3185-d351-4f0f-ac2f-d1c555dd8f23%\"}}]}",
+      "createdOn": "2024-08-19T19:51:44.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 27,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "HIGHEST",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "Paul_insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": "{\"duration\":{\"from\":\"2024-07-01\",\"to\":\"2024-07-31\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"car_insurance_conversion\"},{\"name\":\"term_life_insurance_intent\"}],\"condition\":\"not_completed\",\"event\":\"term_life_insurance_intent\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94067,
+      "name": "TermLifeInsurance_cancel",
+      "description": "TermLifeInsurance_cancel",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%term_life_insurance_cancel%\"}}]}",
+      "createdOn": "2024-09-02T10:09:00.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 28,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "akanksha_insurance_6527",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 2,
+      "updatedOn": "2024-09-10T13:44:21.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94077,
+      "name": "TestAppPush",
+      "description": "Test App Push",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%consider%\"}}]}",
+      "createdOn": "2024-09-10T12:53:38.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 29,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "jaya_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 4,
+      "updatedOn": "2024-09-12T16:17:57.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94078,
+      "name": "Insurance App Push Demo",
+      "description": "Insurance App Push Segment Demo",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%term_life_insurance_consider%\"}}]}",
+      "createdOn": "2024-09-10T15:22:45.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 30,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "HIGHEST",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "jaya_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-09-18T08:15:52.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94088,
+      "name": "srk_seg",
+      "description": "srk segment creation",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"CITY\":{\"$lowerlike\":\"%Hyderabad,India%\"}}]}",
+      "createdOn": "2024-09-13T06:47:53.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 31,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "saidareddy k",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94092,
+      "name": "Product Conversions - v1",
+      "description": "Product Conversion",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%cancel%\"}}]}",
+      "createdOn": "2024-09-17T07:45:01.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 32,
+      "isActive": 1,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 2,
+      "updatedOn": "2024-10-17T05:16:10.000Z",
+      "updaterEmailId": "jaya_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 1,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94093,
+      "name": "Product Cancel - v1",
+      "description": "Product Cancel",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%cancel%\"}}]}",
+      "createdOn": "2024-09-17T07:46:58.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 33,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[\"Product\"]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94094,
+      "name": "Product Acquire - v1",
+      "description": "Product Acquire",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%acquire%\"}},{\"is_evnt_updated\":{\"$lowerlike\":\"%1%\"}}]}",
+      "createdOn": "2024-09-17T07:47:18.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 34,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94095,
+      "name": "Product Interest - v1",
+      "description": "Product Interest",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"last_evnt\":{\"$lowerlike\":\"%interest%\"}}]}",
+      "createdOn": "2024-09-17T07:47:36.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 35,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94096,
+      "name": "Product Consider -v1",
+      "description": "Product Consider",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$or\":[{\"last_evnt\":{\"$lowerlike\":\"%term_life_insurance_consider%\"}}]}",
+      "createdOn": "2024-09-17T07:47:52.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 36,
+      "isActive": 1,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 3,
+      "updatedOn": "2024-09-18T18:36:42.000Z",
+      "updaterEmailId": "sn.insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 1,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94102,
+      "name": "SN_Sales_Testing",
+      "description": "SN_Sales_Testing",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"COUNTRY\":{\"$lowerlike\":\"%India1%\"}}]}",
+      "createdOn": "2024-09-19T06:23:34.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 37,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "sn.insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94103,
+      "name": "SB-CDP-Journey",
+      "description": "CDP Integration with Unica Journey",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"USERACTION\":{\"$lowerlike\":\"%term_life_insurance_conversion%\"}}]}",
+      "createdOn": "2024-09-19T06:33:44.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 38,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[\"Product\"]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "prajkta_insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 3,
+      "updatedOn": "2024-09-19T07:57:37.000Z",
+      "updaterEmailId": "prajkta_insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94106,
+      "name": "Cancel_Health_Insurance",
+      "description": "Health_Insurance_Cancel",
+      "userCount": null,
+      "queryType": "journey_builder",
+      "queryJson": "{\"$and\":[{\"evnt\":{\"$lowerlike\":\"%health_insurance_cancel%\"}}]}",
+      "createdOn": "2024-09-19T14:16:11.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 39,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[\"Product\"]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 1,
+      "isPersonalized": 0,
+      "creatorEmailId": "shilpa d",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94117,
+      "name": "test123",
+      "description": "Test123",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%3ade6955-f9ba-43b2-a59c-b45fcb1264d8%\"}}]}",
+      "createdOn": "2024-09-25T11:06:25.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 40,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "nikhil_6527",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-11-05T18:11:11.000Z",
+      "updaterEmailId": "david-donatelli.insurance",
+      "funnelMetaData": "{\"name\":\"Term Life Insurance Funnel\",\"duration\":{\"from\":\"2024-07-01\",\"to\":\"2024-07-31\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"term_life_insurance_conversion\"},{\"name\":\"Car_insurance_page Acquire\"}],\"condition\":\"not_completed\",\"event\":\"Car_insurance_page Acquire\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94151,
+      "name": "test12345",
+      "description": "test123",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%e983d5bf-3780-47dc-94e3-546916cbe582%\"}}]}",
+      "createdOn": "2024-10-10T14:32:05.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 41,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "nikhil_6527",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-11-05T18:11:25.000Z",
+      "updaterEmailId": "david-donatelli.insurance",
+      "funnelMetaData": "{\"name\":\"Term Life Insurance Funnel\",\"duration\":{\"from\":\"2024-07-01\",\"to\":\"2024-07-31\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"term_life_insurance_conversion\"},{\"name\":\"Car_insurance_page Acquire\"}],\"condition\":\"not_completed\",\"event\":\"Car_insurance_page Acquire\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94170,
+      "name": "Car Insurance Consider",
+      "description": "Car Insurance Consider",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"USERACTION\":{\"$notlike\":\"%Test%\"}}]}",
+      "createdOn": "2024-10-28T23:47:14.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 42,
+      "isActive": 1,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "simon.pallister.insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 4,
+      "updatedOn": "2024-11-27T01:18:01.000Z",
+      "updaterEmailId": "simon.pallister.insurance",
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 1,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94171,
+      "name": "carinsurancefunnel",
+      "description": "carinsurancefunnel",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%0b632655-a550-4ca7-8e61-098a570386b2%\"}}]}",
+      "createdOn": "2024-10-29T04:01:39.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 43,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "simon.pallister.insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2024-11-08T03:53:39.000Z",
+      "updaterEmailId": "simon.pallister.insurance",
+      "funnelMetaData": "{\"name\":\"Car Insurance\",\"duration\":{\"from\":\"2024-09-29\",\"to\":\"2024-10-28\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"car_insurance_acquire\"},{\"name\":\"car_insurance_conversion\"}],\"condition\":\"not_completed\",\"event\":\"car_insurance_conversion\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94192,
+      "name": "Vanguard Test",
+      "description": "Demo Test for Vanguard",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%8f555ce0-2fc3-47ee-b622-9e8bea342cb0%\"}}]}",
+      "createdOn": "2024-11-21T14:22:13.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 44,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "HIGHEST",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "Paul_insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2025-03-10T14:26:38.000Z",
+      "updaterEmailId": "Paul_insurance",
+      "funnelMetaData": "{\"name\":\"Car Ins customers interested  in Life Ins\",\"duration\":{\"from\":\"2024-09-01\",\"to\":\"2024-09-30\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"term_life_insurance_intent\"},{\"name\":\"car_insurance_conversion\"}],\"condition\":\"not_completed\",\"event\":\"car_insurance_conversion\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94193,
+      "name": "Paul Vanguard test ",
+      "description": "KLJDFLEKJFD",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"type\":{\"$lowerlike\":\"%07966a3c-5443-4678-8858-f6823598c98f%\"}}]}",
+      "createdOn": "2024-11-21T18:40:58.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 45,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 1,
+      "tag": null,
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "HIGHEST",
+      "isJourneySegment": 0,
+      "isPersonalized": 1,
+      "creatorEmailId": "Paul_insurance",
+      "dmpOfflineEventQueueStatus": "S",
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": "2025-03-10T14:26:25.000Z",
+      "updaterEmailId": "Paul_insurance",
+      "funnelMetaData": "{\"name\":\"Car Ins customers interested  in Life Ins\",\"duration\":{\"from\":\"2024-09-01\",\"to\":\"2024-09-30\",\"time\":{\"type\":\"minute\",\"value\":0}},\"eventSteps\":[{\"name\":\"term_life_insurance_intent\"},{\"name\":\"car_insurance_conversion\"}],\"condition\":\"not_completed\",\"event\":\"car_insurance_conversion\"}",
+      "segmentMetadata": null,
+      "segDetails": {
+          "totalCount": 0,
+          "details": [
+              {
+                  "date": "2025-03-06",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-07",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-08",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-09",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-10",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-11",
+                  "userCount": 0
+              },
+              {
+                  "date": "2025-03-12",
+                  "userCount": 0
+              }
+          ]
+      },
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": {},
+      "type": "DMPSegment"
+  },
+  {
+      "id": 94198,
+      "name": "Likelihood To Convert",
+      "description": "Likelihood Test",
+      "userCount": null,
+      "queryType": "default",
+      "queryJson": "{\"$and\":[{\"USERACTION\":{\"$equals\":\"Yes\"}}]}",
+      "createdOn": "2024-11-26T12:54:02.000Z",
+      "stage": "e888",
+      "section": 1,
+      "level": 46,
+      "isActive": 0,
+      "clickTracker": null,
+      "impressionCap": 40,
+      "saleWindow": 30,
+      "pixelingPercentage": 0,
+      "overallReach": null,
+      "routeId": null,
+      "isArchived": 0,
+      "tag": "[]",
+      "isPredictive": 0,
+      "isChannelOrchestrated": 0,
+      "segmentPriority": "MEDIUM",
+      "isJourneySegment": 0,
+      "isPersonalized": 0,
+      "creatorEmailId": "david-donatelli.insurance",
+      "dmpOfflineEventQueueStatus": null,
+      "notifyEmail": null,
+      "version": 1,
+      "updatedOn": null,
+      "updaterEmailId": null,
+      "funnelMetaData": null,
+      "segmentMetadata": null,
+      "segDetails": "This object has been omitted by React in the console log to avoid sending too much data from the server. Try logging smaller or more specific objects.",
+      "activeChannelCount": 0,
+      "segmentAdspend": 0,
+      "segmentDetails": "This object has been omitted by React in the console log to avoid sending too much data from the server. Try logging smaller or more specific objects.",
+      "type": "DMPSegment"
+  }
